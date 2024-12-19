@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Dec 18 13:47:38 PST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0193-dbbd-a21b-0000020a10f0 
+on database directory memory:/mnt/c/Users/riley/Documents/CS/GithubProjects/ToDoListAPI/project/6b1a3cef-a11a-479a-aafc-09d5d7f05ddd with class loader org.springframework.boot.loader.launch.LaunchedClassLoader@28a418fc 
+Loaded from jar:nested:/mnt/c/Users/riley/Documents/CS/GithubProjects/ToDoListAPI/project/target/demo-0.0.1-SNAPSHOT.jar/!BOOT-INF/lib/derby-10.16.1.1.jar!/
+java.vendor=Ubuntu
+java.runtime.version=17.0.13+11-Ubuntu-2ubuntu120.04
+user.dir=/mnt/c/Users/riley/Documents/CS/GithubProjects/ToDoListAPI/project
+os.name=Linux
+os.arch=amd64
+os.version=5.10.16.3-microsoft-standard-WSL2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

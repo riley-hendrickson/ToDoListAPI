@@ -1,14 +1,14 @@
-package todolist.project.demo.hello;
+package todolist.project.demo.homepage;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class HelloController 
+public class HomePageController 
 {
-    @RequestMapping("/hello")
+    @RequestMapping("/")
     public String sayHi()
     {
-        return "Hi!";
+        return "Hi! Welcome to the Home Page!";
     }
 }
